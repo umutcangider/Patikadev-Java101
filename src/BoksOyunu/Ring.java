@@ -17,7 +17,7 @@ public class Ring {
         if (checkWeight()) {
             while (f1.health > 0 && f2.health > 0) {
                 System.out.println("======== YENİ ROUND ===========");
-                
+
                 int chance = Math.round((float) Math.random());
                 System.out.println("Şans : " + chance);
 
