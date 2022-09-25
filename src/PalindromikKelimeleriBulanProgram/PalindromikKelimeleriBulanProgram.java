@@ -1,8 +1,8 @@
-package PalindromikKelimleriBulanProgram;
+package PalindromikKelimeleriBulanProgram;
 
 import java.util.Scanner;
 
-public class PalindromikKelimleriBulanProgram {
+public class PalindromikKelimeleriBulanProgram {
 
     static boolean isPalindrome(String str) {
         int i = 0;
